@@ -6,4 +6,3 @@ second time
 
 3 times
 
-from github
